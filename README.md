@@ -407,10 +407,10 @@ while True:
 ```
 
 **Resultados**  
-_Menú 1 - Opciones_
+_Menú - Opciones_
 ![](Imagenes/menu1.jpg)  
 
-_Menú 2 - Opciones_
+_Menú continuación - Opciones_
 ![](Imagenes/menu2.jpg)  
 
 _Opción 1 - Carro_
