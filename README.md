@@ -1,6 +1,6 @@
-# Practica-2.3
+# Práctica-2.3
 
-# 2.1 Elabore un menú en OLED Display (MENU DE NAVEGACION) y TIPOS LETRA Personalizadas
+# 2.3 Elabore un menú en OLED Display (MENU DE NAVEGACION) y TIPOS LETRA Personalizadas
 Depto de Sistemas y Computación  
 Ing. En Sistemas Computacionales  
 SISTEMAS PROGRAMABLES 23a  
@@ -9,7 +9,7 @@ Fecha de entrega:   19/10/2023
 Objetivo: Manipular los estados de los PushButton en un menú de 3 opciones desplegados en la pantalla OLED
 
 **Modelado en wokwi**  
-![](Imagenes/.jpg)  
+![](Imagenes/modelo.png)  
 
 **Conexiones (en físico)**  
 ![](Imagenes/con_fis.jpg) 
